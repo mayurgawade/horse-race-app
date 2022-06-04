@@ -2,6 +2,8 @@
 
 commands to run horse-race-app in postman
 
+$ npm install
+
 $ nodemon index.js
 
 Import the postman collection i.e. available inside **docs/** directory

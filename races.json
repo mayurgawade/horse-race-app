@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "629b20c79c1b8659a1c90035"
+  },
+  "start": {
+    "event": "start",
+    "horse": {
+      "id": 8,
+      "name": "Dazzle"
+    },
+    "time": 0
+  },
+  "goal": {
+    "event": "finish",
+    "horse": {
+      "id": 8,
+      "name": "Dazzle"
+    },
+    "time": 13462
+  }
+}]
